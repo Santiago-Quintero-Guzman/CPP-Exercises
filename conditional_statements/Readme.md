@@ -3,7 +3,8 @@
 In this exercise, the idea is to practice conditionals using assert as follows:
 
 If 1 &lt;= n &gt;= 9 print the lowercase English word corresponding to the number (e.g., one for 1, two for 2, etc.).
-If 1\geq n\\, print Greater than 9.
+
+If n > 9, print Greater than 9.
 
 ## Sample Input
 ```
